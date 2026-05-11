@@ -35,6 +35,7 @@ CSV-файл (отзывы)
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 2. Настройка API-ключа
 
