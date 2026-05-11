@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "review": "Отличный смартфон! Быстрая доставка",
+    "llm_answer": {
+      "sentiment": "positive",
+      "topic": "smartphone and delivery"
+    }
+  },
+  {
+    "id": 2,
+    "review": "Курьер опоздал на 3 часа",
+    "llm_answer": {
+      "sentiment": "negative",
+      "topic": "delivery issues"
+    }
+  },
+  {
+    "id": 3,
+    "review": "Нормальный товар за свои деньги. Ничего особенного",
+    "llm_answer": {
+      "sentiment": "neutral",
+      "topic": "product review"
+    }
+  },
+  {
+    "id": 4,
+    "review": "Ужасное качество! Сломался через неделю после покупки. Не рекомендую.",
+    "llm_answer": {
+      "sentiment": "negative",
+      "topic": "product quality"
+    }
+  },
+  {
+    "id": 5,
+    "review": "Отличная цена",
+    "llm_answer": {
+      "sentiment": "positive",
+      "topic": "great price"
+    }
+  },
+  {
+    "id": 6,
+    "review": "Доставка быстрая",
+    "llm_answer": {
+      "sentiment": "positive",
+      "topic": "delivery"
+    }
+  },
+  {
+    "id": 7,
+    "review": "Пользуюсь уже месяц — полёт нормальный. Спасибо продавцу.",
+    "llm_answer": {
+      "sentiment": "positive",
+      "topic": "product experience"
+    }
+  },
+  {
+    "id": 8,
+    "review": "Не понравилась упаковка: всё в пыли. Сам товар работает исправно.",
+    "llm_answer": {
+      "sentiment": "neutral",
+      "topic": "product quality"
+    }
+  },
+  {
+    "id": 9,
+    "review": "Лучшее соотношение цена/качество на рынке. Всем советую!",
+    "llm_answer": {
+      "sentiment": "positive",
+      "topic": "best price-quality ratio"
+    }
+  },
+  {
+    "id": 10,
+    "review": "Заявленные характеристики не соответствуют реальным. Вернул деньги с трудом.",
+    "llm_answer": {
+      "sentiment": "negative",
+      "topic": "product dissatisfaction"
+    }
+  }
+]
