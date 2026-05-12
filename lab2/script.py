@@ -7,8 +7,8 @@ from dotenv import load_dotenv
 load_dotenv()                   
 
 API_KEY = os.getenv("GITHUB_TOKEN")
-# if not API_KEY:
-#     raise Exception("Не найден GITHUB_TOKEN в .env файле")
+if not API_KEY:
+    raise Exception("Не найден GITHUB_TOKEN в .env файле")
 
 BASE_URL = "https://models.inference.ai.azure.com"
 MODEL_NAME = "gpt-4o-mini"  
